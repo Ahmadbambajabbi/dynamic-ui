@@ -1,1 +1,1 @@
-export { default as Table } from "./Tables";
+export { default as Dynamics } from "./Tables/DynamicTable";

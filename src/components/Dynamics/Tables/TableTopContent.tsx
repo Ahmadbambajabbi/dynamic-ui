@@ -1,5 +1,5 @@
-import React from "react";
-import { TopContentAddButtonType, TopContentSearhInputType } from "./index";
+// import React from "react";
+import { TopContentAddButtonType, TopContentSearhInputType } from "./types";
 
 type PropsType = {
   setAddModelOpen?: (open: boolean) => void;

@@ -1,6 +1,6 @@
 {
-  "name": "dynamic-components",
-  "version": "0.0.1",
+  "name": "zeedlife-dynamic-componenets",
+  "version": "0.0.3",
   "description": "this is react dynamic components to make the front-end development easy. this is just a set up but bear with us. very soon all the componenets will drop on. currently we have dynamic tables that you can use and we'll drop the website for documentation.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -52,6 +52,7 @@
     "@commitlint/cli": "^18.6.0",
     "@commitlint/config-conventional": "^18.6.0",
     "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-typescript": "^11.1.6",
     "@storybook/addon-essentials": "^7.6.13",
@@ -88,5 +89,9 @@
   },
   "peerDependencies": {
     "react": ">=16"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "tailwindcss": "^3.4.14"
   }
 }

@@ -1,1 +1,1 @@
-this is a react component library
+this is react dynamic components to make the front-end development easy. this is just a set up but bear with us. very soon all the componenets will drop on. currently we have dynamic tables that you can use and we'll drop the website for documentation."
